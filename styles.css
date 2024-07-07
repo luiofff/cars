@@ -227,3 +227,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+a:link, a:visited, a:active {
+    color: rgb(88, 104, 255);
+}
