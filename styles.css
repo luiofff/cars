@@ -175,7 +175,7 @@ body {
     display: grid;
     place-items: center;
 
-    background-image: url("/cardFresh/assets/photo_2024-07-07_03-03-33.jpg");
+    background-image: url("/carsShop/assets/photo_2024-07-07_03-03-33.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -223,7 +223,7 @@ body {
     width: 100%;
     height: 100%;
 
-    background-image: url("/cardFresh/assets/exeed\ \(4\).png");
+    background-image: url("/carsShop/assets/exeed\ \(4\).png");
     background-repeat: no-repeat;
     background-size: cover;
 }
